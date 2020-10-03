@@ -1,0 +1,19 @@
+<html>
+        <head>
+               <title>Anna Barantseva</title>
+        </head>
+
+        <body>
+
+              <h1>Anna Barantseva</h1>
+
+	      <p>Anna is a very cute and sweet girl.</p>
+	      <p>She <b>loves</b> sitting in the sun.</p>
+	      <p>She really likes to travel to faraway places.<br /> 
+                 Here she is in Thailand.<br /> 
+                 She is sitting on a swing soaking up the hot sun.</p>
+
+		<img src = "anna2.jpg" />
+        </body>
+
+</html>
